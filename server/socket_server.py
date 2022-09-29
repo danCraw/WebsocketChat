@@ -1,7 +1,7 @@
 import asyncio
 import websockets
 
-from config import HOST, PORT
+from server.config import HOST, PORT
 
 USERS = set()
 
